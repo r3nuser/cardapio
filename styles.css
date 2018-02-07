@@ -1,0 +1,47 @@
+body{
+	margin: 0;
+	background-color: black;
+	
+}
+.cardapio{
+	padding: 10px;
+	background-color: rgb(30,30,30);
+	color: white;
+	font-family: 'Orbitron', sans-serif;
+	position: absolute;
+	border-style: dashed;
+	border-width: 5;
+}
+.top{
+	display: flex;
+}
+.top-image{
+	width: 140px;
+	height: 140px;
+	margin: 0;
+	padding: 0;
+
+}
+.icon{
+	width:40px;
+	height: 40px;
+}
+h1{
+	color: rgb(255,200,0);
+	margin-top: 60px;
+}
+h2{ 
+	color: rgb(130,0,150);
+}
+p{
+	padding-top: 10px;
+	color: rgb(200,200,0);
+}
+
+span{
+	color: rgb(0,150,150);
+}
+
+b{
+	color: rgb(200,200,255);
+}
